@@ -2,6 +2,6 @@
 
 [bilibili](https://www.bilibili.com)
 
-[local](192.168.1.8)
+[local](http://192.168.1.8)
 
-[localwebdav](192.168.1.8/webdav)
+[localwebdav](http://192.168.1.8/webdav)
