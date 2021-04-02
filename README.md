@@ -1,6 +1,6 @@
 # weblinks
 
-[bilibili](www.bilibili.com)
+[bilibili](https://www.bilibili.com)
 
 [local](192.168.1.8)
 
